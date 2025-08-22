@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on AI Coding Agent.
+- 🌱 I’m currently learning Rust.
+- 💬 Ask me about HomeServer.
+- 📫 How to reach me: [Bilibili](https://space.bilibili.com/1353056859)
 <!--
 **baixiaokuang/baixiaokuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
